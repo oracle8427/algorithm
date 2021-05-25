@@ -6,7 +6,8 @@ public class RunningTimeAndComplexity {
 	public static boolean isPrime(int number) {
 		if (number == 1)
 			return false;
-		int sqrt = (int) Math.sqrt(number);
+		Double d = Math.sqrt(number);
+		int sqrt = d.intValue();
 		for (int i = 2; i <= sqrt; i++) {
 			if (number % i == 0)
 				return false;
