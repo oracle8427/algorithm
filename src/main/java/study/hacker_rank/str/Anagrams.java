@@ -1,4 +1,4 @@
-package study.hacker_rank;
+package study.hacker_rank.str;
 
 import java.util.Arrays;
 import java.util.HashMap;

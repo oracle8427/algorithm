@@ -1,4 +1,4 @@
-package study.hacker_rank;
+package study.hacker_rank.str;
 
 public class SubstringComparisons {
 

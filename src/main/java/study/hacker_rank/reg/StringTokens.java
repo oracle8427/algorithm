@@ -1,4 +1,4 @@
-package study.hacker_rank.str;
+package study.hacker_rank.reg;
 
 public class StringTokens {
 
