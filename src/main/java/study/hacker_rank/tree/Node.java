@@ -1,4 +1,4 @@
-package study.hacker_rank;
+package study.hacker_rank.tree;
 
 public class Node {
 	public Node left;

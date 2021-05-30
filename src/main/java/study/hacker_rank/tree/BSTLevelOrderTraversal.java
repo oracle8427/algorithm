@@ -2,8 +2,6 @@ package study.hacker_rank.tree;
 
 import java.util.LinkedList;
 
-import study.hacker_rank.Node;
-
 public class BSTLevelOrderTraversal {
 
 	static void levelOrder(Node node) {
