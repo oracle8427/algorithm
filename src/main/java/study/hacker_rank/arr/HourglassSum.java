@@ -1,4 +1,4 @@
-package study.hacker_rank.list;
+package study.hacker_rank.arr;
 
 import java.io.IOException;
 
